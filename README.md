@@ -21,7 +21,7 @@
 - Social media: [Facebook](https://www.facebook.com/olumideayodeji.shittu), [Youtube](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A), [Instagram](https://www.instagram.com/shittu_olumide_ayodeji/), [Reddit](https://www.reddit.com/user/ShittuOlumide)
 
 
-## Badges
+## CI/CD Tools
 
 [![GitHub](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zenUnicorn/)
 [![GitLab](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://gitlab.com/)
