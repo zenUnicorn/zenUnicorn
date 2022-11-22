@@ -52,11 +52,6 @@ Python, Javascript, PHP.
 | FreeCodeCamp    | E-learning                          | **Technical writer**       |
 | CycleBreeze     | Research and Development            | **Data Scientist**         |
 | StackAbuse      | Web technology                      | **Staff Technical writer** |
-| Router Protocol | Blockchain                          | **Ambassador**             |
-| Bluzelle        | Blockchain                          | **Ambassador**             |
-| Hagglex         | Blockchain                          | **Community manager**      |
-| FlutterWave     | Fintech                             | **Ambassador**             |
-| Aeternity       | Blockchain                          | **Ambassador**             |
 
 
 
