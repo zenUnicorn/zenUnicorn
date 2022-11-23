@@ -43,7 +43,6 @@
 Python, Javascript, PHP.
 
 
-
 ## Recent jobs
 | Company         | Domain                              | Role                       |
 | :-------------- | :---------------------------------- | :------------------------- |
