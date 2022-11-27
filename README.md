@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 👋 Hi, I’m Shittu Olumide { @zenUnicorn }
+- 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
 - 👀 I’m interested in Data Science / Machine Learning and Blockchain (Web3.0) 
 - 🌱 I’m currently learning Complex algorithms, Blockchain analytics and Problem solving.
 - 💞️ I’m looking to collaborate on Data related and Technical writing gigs
