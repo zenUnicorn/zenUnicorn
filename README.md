@@ -53,7 +53,7 @@ Python, Javascript, PHP.
 | StackAbuse      | Web technology                      | **Staff Technical writer** |
 
 
-If you have any feedback, please reach out to me via email.
+If you have any feedback, kindly reach out to me via email.
 
 
 ### Check out my pinned projects below 👇
