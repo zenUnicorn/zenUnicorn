@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Data related and Technical writing gigs
 - 📫 How to reach me via email { iamholumeedey007@gmail.com }
 - 😄 Pronouns - He/Him
-- ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine here
+- ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine [here](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A)
 
 
 ## 🔗 Links
