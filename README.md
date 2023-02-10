@@ -36,7 +36,7 @@
  - [StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)
  - [Medium](https://heartbeat.comet.ml/named-entity-recognition-with-python-5a116490915)
  - [Hashnode](https://shittuolumide.hashnode.dev/blockchain-for-the-masses)
- - [Dev.to](https://dev.to/shittu_olumide_/transform-your-writing-into-nft-54i2)
+ - [Dev.to](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)
 
 ## 🛠 Skills
 
