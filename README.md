@@ -25,6 +25,7 @@
 
 [![GitHub](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zenUnicorn/)
 [![GitLab](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://gitlab.com/)
+[!Github](https://img.shields.io/github/license/zenUnicorn/Fake-News-Detection)
 
 
 
