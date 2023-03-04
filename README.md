@@ -10,9 +10,6 @@
 - 😄 Pronouns - He/Him
 - ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine [here](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A).
 
-<html>
- <marque direction="left">Hello world</marque>
-</html>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zenunicorn.github.io/ShittuOlumide/)
