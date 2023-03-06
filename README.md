@@ -1,5 +1,4 @@
 # Hi, I'm Shittu Olumide! 👋
-fngjngkjnkfjnk
 
 ## 🚀 About Me
 
