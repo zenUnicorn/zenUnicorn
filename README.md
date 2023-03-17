@@ -51,6 +51,7 @@ Python, Javascript, PHP.
 | FreeCodeCamp    | E-learning                          | **Technical writer**       |
 | CycleBreeze     | Research and Development            | **Data Scientist**         |
 | StackAbuse      | Web technology                      | **Staff Technical writer** |
+||
 
 
 If you have any feedback, kindly reach out to me via email.
