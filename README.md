@@ -54,7 +54,7 @@ Python, Javascript, PHP.
 
 
 
-If you have any feedback, kindly reach out to me via email.
+If you have any feedback, kindly reach out to me via email (iamholumeedey007@gmail.com).
 
 
 ### Check out my pinned projects below.👇
