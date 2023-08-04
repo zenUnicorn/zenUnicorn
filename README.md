@@ -1,6 +1,6 @@
 # Hi, I'm Shittu Olumide! 👋.
 
-## 🚀 About Me
+## 🚀 About Me.
 
 - 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
 - 👀 I’m interested in Software engineering.
