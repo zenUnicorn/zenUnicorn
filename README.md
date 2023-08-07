@@ -28,7 +28,7 @@
 
 
 
-## Featured articles
+## Featured articles.
 
  - [Educative](https://www.educative.io/answers/what-is-regression-in-pycaret)
  - [Comet.ml](https://heartbeat.comet.ml/using-machine-learning-for-language-detection-517fa6e68f22)
