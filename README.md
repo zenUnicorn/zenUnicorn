@@ -38,7 +38,7 @@
  - [Hashnode](https://shittuolumide.hashnode.dev/blockchain-for-the-masses)
  - [Dev.to](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)
 
-## 🛠 Skills
+## 🛠 Skills.
 
 Python, Javascript, PHP.
 
