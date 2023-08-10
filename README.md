@@ -43,7 +43,7 @@
 Python, Javascript, PHP.
 
 
-## Recent jobs
+## Recent jobs.
 | Company         | Domain                              | Role                       |
 | :-------------- | :---------------------------------- | :------------------------- |
 | Educative       | E-learning                          | **Technical writer**       |
