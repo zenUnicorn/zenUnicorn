@@ -40,7 +40,7 @@
 
 ## 🛠 Skills.
 
-Python, Javascript, PHP.
+Python, Javascript, React, PHP.
 
 
 ## Recent jobs.
