@@ -1,4 +1,4 @@
-# Hi, I'm Shittu Olumide! 👋.
+# Hi, I'm Shittu Olumide! 👋..
 
 ## 🚀 About Me.
 
