@@ -1,6 +1,6 @@
 # Hi, I'm Shittu Olumide! 👋..
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/zenUnicorn/zenUnicorn/blob/main/bahroo-hacker.gif?raw=true)
 
 ## 🚀 About Me.
 
