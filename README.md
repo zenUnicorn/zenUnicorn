@@ -1,5 +1,7 @@
 # Hi, I'm Shittu Olumide! 👋..
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ## 🚀 About Me.
 
 - 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
