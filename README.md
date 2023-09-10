@@ -53,6 +53,7 @@ Python, Javascript, React, PHP.
 | FreeCodeCamp    | E-learning                          | **Technical writer**       |
 | CycleBreeze     | Research and Development            | **Data Scientist**         |
 | StackAbuse      | Web technology                      | **Staff Technical writer** |
+| Arize AI        | MLOps Observbility                  | **Technical writer** |
 
 
 
