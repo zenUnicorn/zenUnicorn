@@ -1,4 +1,4 @@
-# Hi, I'm Shittu Olumide! 👋.
+# Hi, I'm Shittu Olumide! 👋
 
 ![alt text](https://github.com/zenUnicorn/zenUnicorn/blob/main/bahroo-hacker.gif?raw=true)
 
