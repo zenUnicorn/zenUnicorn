@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/zenUnicorn/zenUnicorn/blob/main/bahroo-hacker.gif?raw=true)
 
-!Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/bahroo-hacker.gif?raw=true)
+![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
-https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif
+
 
 ## 🚀 About Me.
 
