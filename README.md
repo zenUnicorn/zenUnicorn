@@ -2,6 +2,8 @@
 
 ![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
+![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true){ width="800" height="600" style="display: block; margin: 0 auto" }
+
 
 
 ## 🚀 About Me.
