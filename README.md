@@ -2,12 +2,6 @@
 
 ![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
-<img src="https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true" 
-        alt="Picture" 
-        width="800" 
-        height="600" 
-        style="display: block; margin: 0 auto" />
-
 
 ## 🚀 About Me.
 
