@@ -52,7 +52,6 @@ Python, Javascript, React, PHP.
 | Educative       | E-learning                          | **Technical writer**       |
 | Cometml         | MLOps (Machine Learning Operations) | **Technical writer**       |
 | FreeCodeCamp    | E-learning                          | **Technical writer**       |
-| CycleBreeze     | Research and Development            | **Data Scientist**         |
 | StackAbuse      | Web technology                      | **Staff Technical writer** |
 | Arize AI        | MLOps Observbility                  | **Technical writer** |
 
