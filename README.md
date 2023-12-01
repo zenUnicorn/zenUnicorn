@@ -48,7 +48,7 @@ Python, Javascript, React, PHP.
 
 ## Recent jobs.
 | Company         | Domain                                                               | Role                           | Website                   |
-| :-------------- | :----------------------------------                                  | :-------------------------                                 |
+| :-------------- | :----------------------------------                                  | :-------------------------     :-------------------------  |
 | Orquesta        | LLMOps (Large Language Modeling Operations)                          | **Technical writer**           |**Technical writer**       |
 | Cometml         | MLOps (Machine Learning Operations)                                  | **Technical writer**           |**Technical writer**       |
 | FreeCodeCamp    | E-learning                                                           | **Technical writer**           |**Technical writer**       |
