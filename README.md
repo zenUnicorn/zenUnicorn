@@ -47,13 +47,13 @@ Python, Javascript, React, PHP.
 
 
 ## Recent jobs.
-| Company         | Domain                              | Role                       |
-| :-------------- | :---------------------------------- | :------------------------- |
-| Orquesta        | E-learning                          | **Technical writer**       |
-| Cometml         | MLOps (Machine Learning Operations) | **Technical writer**       |
-| FreeCodeCamp    | E-learning                          | **Technical writer**       |
-| StackAbuse      | Web technology                      | **Staff Technical writer** |
-| Arize AI        | MLOps Observbility                  | **Technical writer** |
+| Company         | Domain                              | Role                                                        |
+| :-------------- | :---------------------------------- | :-------------------------                                  |
+| Orquesta        | LLMOps (Large Languagr Modeling Operations)                          | **Technical writer**       |
+| Cometml         | MLOps (Machine Learning Operations) | **Technical writer**           |
+| FreeCodeCamp    | E-learning                          | **Technical writer**           |
+| StackAbuse      | Web technology                      | **Staff Technical writer**     |
+| Arize AI        | MLOps Observbility                  | **Technical writer**           |
 
 
 
