@@ -48,6 +48,10 @@ Python, Javascript, React, PHP.
 |Company         |Domain                                                    |Role                         |Website              |
 |----------------|----------------------------------------------------------|-----------------------------|---------------------|
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
 |Quotes          |`"Isn't this fun?"`                                       |"Isn't this fun?"            |                     |
 |Dashes          |`-- is en-dash, --- is em-dash`                           |-- is en-dash, --- is em-dash|                     |
 
