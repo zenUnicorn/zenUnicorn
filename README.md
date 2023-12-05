@@ -49,7 +49,7 @@ Python, Javascript, React, PHP.
 |Company         |Domain                                                    |Role                         |Website              |
 |----------------|----------------------------------------------------------|-----------------------------|---------------------|
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
-|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml        |
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
@@ -58,9 +58,7 @@ Python, Javascript, React, PHP.
 
 
 
-| Company         | Domain                                                               | Role                           | Website                   |
-| :-------------- | :----------------------------------                                  | :-------------------------     :-------------------------  |
-| Orquesta        | LLMOps (Large Language Modeling Operations)                          | **Technical writer**           |**Technical writer**       |
+
 | Cometml         | MLOps (Machine Learning Operations)                                  | **Technical writer**           |**Technical writer**       |
 | FreeCodeCamp    | E-learning                                                           | **Technical writer**           |**Technical writer**       |
 | StackAbuse      | Web technology                                                       | **Staff Technical writer**     |**Technical writer**       |
