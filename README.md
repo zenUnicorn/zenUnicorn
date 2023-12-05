@@ -52,14 +52,11 @@ Python, Javascript, React, PHP.
 |Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
 |Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
 |FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
-|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud    |
-|Quotes          |`"Isn't this fun?"`                                       |"Isn't this fun?"            |                       |
-|Dashes          |`-- is en-dash, --- is em-dash`                           |-- is en-dash, --- is em-dash|                       |
 
 
 
 
-| StackAbuse      | Web technology                                                       | **Staff Technical writer**     |**Technical writer**       |
+
 
 
 If you have any feedback, kindly reach out to me via email (iamholumeedey007@gmail.com).
