@@ -45,11 +45,11 @@
 
 Python, Javascript, React, PHP.
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Company         |Domain                                                    |Role                         |Website              |
+|----------------|----------------------------------------------------------|-----------------------------|---------------------|
+|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Quotes          |`"Isn't this fun?"`                                       |"Isn't this fun?"            |                     |
+|Dashes          |`-- is en-dash, --- is em-dash`                           |-- is en-dash, --- is em-dash|                     |
 
 
 ## Recent jobs.
