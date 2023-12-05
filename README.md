@@ -50,7 +50,7 @@ Python, Javascript, React, PHP.
 |----------------|----------------------------------------------------------|-----------------------------|---------------------|
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
 |Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml        |
-|Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
+|Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai        |
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
 |Quotes          |`"Isn't this fun?"`                                       |"Isn't this fun?"            |                     |
@@ -59,11 +59,9 @@ Python, Javascript, React, PHP.
 
 
 
-| Cometml         | MLOps (Machine Learning Operations)                                  | **Technical writer**           |**Technical writer**       |
+
 | FreeCodeCamp    | E-learning                                                           | **Technical writer**           |**Technical writer**       |
 | StackAbuse      | Web technology                                                       | **Staff Technical writer**     |**Technical writer**       |
-| Arize AI        | MLOps Observbility                                                   | **Technical writer**           |**Technical writer**       |
-
 
 
 If you have any feedback, kindly reach out to me via email (iamholumeedey007@gmail.com).
