@@ -45,6 +45,7 @@
 
 Python, Javascript, React, PHP.
 
+## Recent jobs.
 |Company         |Domain                                                    |Role                         |Website              |
 |----------------|----------------------------------------------------------|-----------------------------|---------------------|
 |Orquesta        |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud  |
@@ -56,7 +57,7 @@ Python, Javascript, React, PHP.
 |Dashes          |`-- is en-dash, --- is em-dash`                           |-- is en-dash, --- is em-dash|                     |
 
 
-## Recent jobs.
+
 | Company         | Domain                                                               | Role                           | Website                   |
 | :-------------- | :----------------------------------                                  | :-------------------------     :-------------------------  |
 | Orquesta        | LLMOps (Large Language Modeling Operations)                          | **Technical writer**           |**Technical writer**       |
