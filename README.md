@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
 - 👀 I’m interested in Software engineering.
-- 🌱 I’m currently learning Complex algorithms, Blockchain analytics, and Problem-solving.
+- 🌱 I’m currently learning Complex algorithms and Problem-solving.
 - 💞️ I’m looking to collaborate on data-related and Technical writing gigs.
 - 📫 How to reach me via email { iamholumeedey007@gmail.com }
 - 😄 Pronouns - He/Him.
