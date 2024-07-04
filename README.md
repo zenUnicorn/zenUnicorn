@@ -35,7 +35,7 @@
 |Blog                                                                               |Blog                                                                                                    |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |[Educative](https://www.educative.io/answers/what-is-regression-in-pycaret)        |[Comet.ml](https://heartbeat.comet.ml/using-machine-learning-for-language-detection-517fa6e68f22)       |
-|[FreeCodeCamp](https://www.freecodecamp.org/news/python-automation-scripts/)       |**Technical writer**         | www.comet.ml          |
+|[FreeCodeCamp](https://www.freecodecamp.org/news/python-automation-scripts/)       |[Medium](https://heartbeat.comet.ml/named-entity-recognition-with-python-5a116490915)                   |
 |Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
 |FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
 
@@ -44,7 +44,7 @@
  - 
  - 
  - [StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)
- - [Medium](https://heartbeat.comet.ml/named-entity-recognition-with-python-5a116490915)
+ - 
  - [Hashnode](https://shittuolumide.hashnode.dev/blockchain-for-the-masses)
  - [Dev.to](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)
 
