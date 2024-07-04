@@ -32,7 +32,7 @@
 
 ## Featured articles.
 
-|Company                                                                            |Domain                                                                                                  |
+|Blog                                                                               |Blog                                                                                                    |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |[Educative](https://www.educative.io/answers/what-is-regression-in-pycaret)        |[Comet.ml](https://heartbeat.comet.ml/using-machine-learning-for-language-detection-517fa6e68f22)       |
 |Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
