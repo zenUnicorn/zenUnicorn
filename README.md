@@ -40,14 +40,6 @@
 |[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |**Technical writer**         | www.freecodecamp.org  |
 
 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-
 ## 🛠 Skills.
 
 Python, Javascript, React, PHP.
