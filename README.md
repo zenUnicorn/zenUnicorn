@@ -48,7 +48,7 @@ Python, Javascript, React, PHP.
 ## Recent jobs.
 |Company         |Domain                                                    |Role                         |Website                |
 |----------------|----------------------------------------------------------|-----------------------------|-----------------------|
-|Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orquesta.cloud    |
+|Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orq.ai/           |
 |Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
 |Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
 |FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
