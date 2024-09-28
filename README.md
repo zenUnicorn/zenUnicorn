@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shittu Olumide!
+# Hi, I'm Shittu Olumide! 👋
 
 ![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
