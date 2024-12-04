@@ -38,7 +38,6 @@
 |[FreeCodeCamp](https://www.freecodecamp.org/news/python-automation-scripts/)       |[Medium](https://heartbeat.comet.ml/named-entity-recognition-with-python-5a116490915)                   |
 |[Hashnode](https://shittuolumide.hashnode.dev/blockchain-for-the-masses)           |[Dev.to](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)      |
 |[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |[KDnuggets](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)                 |
-|[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |[KDnuggets](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)                 |
 
 
 ## 🛠 Skills.
