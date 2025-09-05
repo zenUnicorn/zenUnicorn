@@ -1,14 +1,17 @@
-<h1 align="left">Hi, I'm Shittu Olumide! 👋.</h1>
+# Hi, I'm Shittu Olumide! 👋.
 
-###
+![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
-<h2 align="left">🚀 About Me.</h2>
+## 🚀 About Me.
 
-###
+- 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
+- 👀 I’m interested in AI engineering, I currently spice this up using my Technical writing skills and Dev advocacy 
+- 🌱 I’m currently learning Complex algorithms and Problem-solving.
+- 💞️ I’m looking to collaborate on data-related and Technical writing gigs.
+- 📫 How to reach me via email { iamholumeedey007@gmail.com }
+- 😄 Pronouns - He/Him.
+- ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine [here](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A).
 
-<p align="left">- 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }<br><br>- 👀 I’m interested in AI engineering, I currently spice this up using my Technical writing skills and Dev advocacy <br><br>- 🌱 I’m currently learning Complex algorithms and Problem-solving.<br><br>- 💞️ I’m looking to collaborate on data-related and Technical writing gigs.<br><br>- 📫 How to reach me via email { iamholumeedey007@gmail.com }<br><br>- 😄 Pronouns - He/Him.<br><br>- ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine [here](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A).</p>
-
-###
 
 <h3 align="left">Tools</h3>
 
@@ -248,20 +251,6 @@
 
 
 
-
-# Hi, I'm Shittu Olumide! 👋.
-
-![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
-
-## 🚀 About Me.
-
-- 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
-- 👀 I’m interested in AI engineering, I currently spice this up using my Technical writing skills and Dev advocacy 
-- 🌱 I’m currently learning Complex algorithms and Problem-solving.
-- 💞️ I’m looking to collaborate on data-related and Technical writing gigs.
-- 📫 How to reach me via email { iamholumeedey007@gmail.com }
-- 😄 Pronouns - He/Him.
-- ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine [here](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A).
 
 
 ## 🔗 Links.
