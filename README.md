@@ -123,11 +123,17 @@
 
 ###
 
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenUnicorn/zenUnicorn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenUnicorn/zenUnicorn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zenUnicorn/zenUnicorn/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
 
 ###
 
@@ -167,21 +173,6 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="slack logo"  />
 </div>
 
-## 🔗 Links.
-
-
-
-
-## Recent jobs.
-|Company         |Domain                                                    |Role                         |Website                |
-|----------------|----------------------------------------------------------|-----------------------------|-----------------------|
-|Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orq.ai/           |
-|KDnuggets       |`Open source E-learning) `                                |**Technical writer**         | www.kdnuggets.com     |
-|Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
-|Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
-|FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
-
-###
 
 <h2 align="left">Recent Blog Posts</h2>
 
@@ -199,6 +190,8 @@
   </a>
 </div>
 
+###
+
 ### Featured articles.
 
 |Blog                                                                               |Blog                                                                                                    |
@@ -209,6 +202,19 @@
 |[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |[KDnuggets](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)                 |
 
 ###
+
+
+## Recent jobs.
+|Company         |Domain                                                    |Role                         |Website                |
+|----------------|----------------------------------------------------------|-----------------------------|-----------------------|
+|Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orq.ai/           |
+|KDnuggets       |`Open source E-learning) `                                |**Technical writer**         | www.kdnuggets.com     |
+|Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
+|Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
+|FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
+
+###
+
 
 ### Spotify jams
 
@@ -222,7 +228,7 @@
 
 
 
-
+## 🔗 Links.
 
 
 
