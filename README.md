@@ -135,7 +135,7 @@
 ###
 
 
-###
+### 🗺️ Socials
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
@@ -219,21 +219,6 @@
 ### Spotify jams
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bjt4b3bafeje4nyakitdpi3x5e)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bjt4b3bafeje4nyakitdpi3x5e&count={count})
-
-
-
-===================================================
-
-
-
-## 🔗 Links.
-
-
-
-
-
 
 
 
