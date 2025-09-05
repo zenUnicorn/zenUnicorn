@@ -172,16 +172,6 @@
 
 
 
-## Featured articles.
-
-|Blog                                                                               |Blog                                                                                                    |
-|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|[Educative](https://www.educative.io/answers/what-is-regression-in-pycaret)        |[Comet.ml](https://heartbeat.comet.ml/using-machine-learning-for-language-detection-517fa6e68f22)       |
-|[FreeCodeCamp](https://www.freecodecamp.org/news/python-automation-scripts/)       |[Medium](https://heartbeat.comet.ml/named-entity-recognition-with-python-5a116490915)                   |
-|[Hashnode](https://shittuolumide.hashnode.dev/blockchain-for-the-masses)           |[Dev.to](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)      |
-|[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |[KDnuggets](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)                 |
-
-
 ## Recent jobs.
 |Company         |Domain                                                    |Role                         |Website                |
 |----------------|----------------------------------------------------------|-----------------------------|-----------------------|
@@ -193,7 +183,7 @@
 
 ###
 
-<h3 align="left">Recent Blog Posts</h3>
+<h2 align="left">Recent Blog Posts</h2>
 
 ###
 
@@ -209,16 +199,23 @@
   </a>
 </div>
 
+### Featured articles.
+
+|Blog                                                                               |Blog                                                                                                    |
+|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|[Educative](https://www.educative.io/answers/what-is-regression-in-pycaret)        |[Comet.ml](https://heartbeat.comet.ml/using-machine-learning-for-language-detection-517fa6e68f22)       |
+|[FreeCodeCamp](https://www.freecodecamp.org/news/python-automation-scripts/)       |[Medium](https://heartbeat.comet.ml/named-entity-recognition-with-python-5a116490915)                   |
+|[Hashnode](https://shittuolumide.hashnode.dev/blockchain-for-the-masses)           |[Dev.to](https://dev.to/shittu_olumide_/how-to-download-youtube-music-and-videos-with-python-37k5)      |
+|[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |[KDnuggets](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)                 |
+
 ###
 
+### Spotify jams
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bjt4b3bafeje4nyakitdpi3x5e)
-For custom count (1 ≤ {count} ≤ 10):
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bjt4b3bafeje4nyakitdpi3x5e&count={count})
-For custom width (300 ≤ {width} ≤ 1000):
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bjt4b3bafeje4nyakitdpi3x5e&width={width})
-For unique tracks :
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bjt4b3bafeje4nyakitdpi3x5e&unique={true|1|on|yes})
+
 
 
 ===================================================
