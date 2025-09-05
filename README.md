@@ -13,7 +13,7 @@
 - ⚡️ Fun fact I love swimming and listening to Tech Podcast - You can subscribe to mine [here](https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A).
 
 
-<h3 align="left">Tools</h3>
+<h2 align="left"> 🛠 Tools</h2>
 
 ###
 
@@ -109,7 +109,7 @@
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">✨ Stats</h2>
 
 ###
 
@@ -182,10 +182,6 @@
 |[StackAbuse](https://stackabuse.com/common-string-manipulation-in-python/)         |[KDnuggets](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)                 |
 
 
-## 🛠 Skills.
-
-Python, Javascript, React, PHP.
-
 ## Recent jobs.
 |Company         |Domain                                                    |Role                         |Website                |
 |----------------|----------------------------------------------------------|-----------------------------|-----------------------|
@@ -194,12 +190,6 @@ Python, Javascript, React, PHP.
 |Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
 |Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
 |FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
-
-###
-
-<div align="left">
-  <img height="200" src="https://github.com/zenUnicorn/zenUnicorn/blob/main/3d-fictional-space-background.jpg"  />
-</div>
 
 ###
 
