@@ -2,7 +2,7 @@
 
 ![Gif image](https://github.com/zenUnicorn/zenUnicorn/blob/main/github-giphy.gif?raw=true)
 
-## 🚀 About Me.
+## 🚀 About Me
 
 - 👋 Hi, I’m Shittu Olumide { [@zenUnicorn](https://github.com/zenUnicorn/) }
 - 👀 I’m interested in AI engineering, I currently spice this up using my Technical writing skills and Dev advocacy 
