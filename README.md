@@ -207,6 +207,7 @@
 ## Recent jobs.
 |Company         |Domain                                                    |Role                         |Website                |
 |----------------|----------------------------------------------------------|-----------------------------|-----------------------|
+|KDnuggets       |`Open source E-learning) `                                |**Technical writer**         | www.kdnuggets.com     |
 |FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
 |Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orq.ai/           |
 
