@@ -176,8 +176,6 @@
 
 <h2 align="left">Recent Blog Posts</h2>
 
-###
-
 <div align="left" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamholumeedey007/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@iamholumeedey007/0" alt="Medium post 1"  />
@@ -189,8 +187,6 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@iamholumeedey007/2" alt="Medium post 3"  />
   </a>
 </div>
-
-###
 
 ### Featured articles.
 
