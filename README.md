@@ -114,9 +114,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenUnicorn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=zenUnicorn&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
 </div>
 
 ###
