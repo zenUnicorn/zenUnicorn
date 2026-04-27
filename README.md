@@ -186,7 +186,8 @@
 |----------------|----------------------------------------------------------|-----------------------------|-----------------------|
 |KDnuggets       |`Open source E-learning) `                                |**Technical writer**         | www.kdnuggets.com     |
 |FreeCodeCamp    |`Open source E-learning) `                                |**Technical writer**         | www.freecodecamp.org  |
-|Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orq.ai/           |
+|Literally.dev   |`Technical Engineering Docs`                              |**Technical writer**         | www.literally.dev     |
+|Orq.ai          |`LLMOps (Large Language Modeling Operations) `            |**Technical writer**         | www.orq.ai            |
 |Cometml         |`MLOps (Machine Learning Operations) `                    |**Technical writer**         | www.comet.ml          |
 |Arize AI        |`Machine learning Operations (MLOps) Observbility `       |**Technical writer**         | www.arize.ai          |
 
